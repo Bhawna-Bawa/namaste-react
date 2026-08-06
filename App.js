@@ -1,9 +1,11 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 const heading = React.createElement(
     "h1",
     { id: "heading",
       className: "head"
     },
-    "Namaste React with Bhawna Bawa"
+    "Namaste React with Bhawna Bawa."
 );
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
