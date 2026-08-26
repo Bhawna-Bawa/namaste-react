@@ -19,7 +19,17 @@
 - Tree Shaking Algorithm : Remove unnecessary code from Files
 - Different builds(bundles) for Dev and Prod
 
+# BABEL 
+- Transpiler 
+- Supports for older browsers also
+
 # Browserslist
+# Scripts 
+- --dist-dir : Distribution output directory
+# JSX
+- JSX prevent cross site scripting by sanatizing 
+
+
 
 
 
