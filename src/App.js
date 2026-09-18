@@ -4,7 +4,7 @@ import "../index.scss";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Body from "./components/Body/Body";
-import AboutUs from "./components/Header/AboutUs";
+import AboutUs from "./components/Header/AboutUs/AboutUs";
 import ContactUs from "./components/Header/ContactUs";
 import Cart from "./components/Header/Cart";
 import ErrorBoundary from "./components/Error/Error";
