@@ -29,6 +29,18 @@
 # JSX
 - JSX prevent cross site scripting by sanatizing 
 
+# React Fiber
+
+# CORS
+- Cors io
+
+# Shimmer
+
+# React Router DOM
+- Server Side Routing
+- client Side Routing
+
+
 
 
 
